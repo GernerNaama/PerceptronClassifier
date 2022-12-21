@@ -1,5 +1,6 @@
 # PerceptronClassifier
 Implementation of a multi-class Perceptron Classifier algorithm in Python.
+
 Run from the command line like so:
 
 python PerceptronClassifier.py < path_to_csv >
